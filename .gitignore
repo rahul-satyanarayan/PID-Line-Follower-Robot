@@ -1,0 +1,21 @@
+# Arduino & ESP32 Compiled binaries
+.build/
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+
+# PlatformIO & VS Code directories
+.pio/
+.vscode/
+.idea/
+
+# OS specific temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary backups
+*.bak
+*.tmp

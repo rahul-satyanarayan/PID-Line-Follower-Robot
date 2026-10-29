@@ -1,0 +1,6 @@
+# =================================================================
+# Library Dependencies for PID Line-Follower Robot
+# =================================================================
+
+# Library Name              | Minimum Version | Source / Notes
+Adafruit Motor Shield V1    | >= 1.0.1        | Arduino Library Manager (by Adafruit)
